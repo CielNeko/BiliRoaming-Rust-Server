@@ -25,7 +25,7 @@ base64 = "0.21.0"
 urlencoding = "2.1.2"
 lazy_static = "1.4.0"
 log = "0.4"
-env_logger = "0.10.0"
+env_logger = "0.11.1"
 reqwest = {version = "0.11.14",features = ["socks","brotli","gzip","deflate","rustls-tls"]}
 rustls = "0.20.8"
 rustls-pemfile = "1.0.2"
